@@ -1,5 +1,6 @@
 ---
 permalink: /markdown/
+layout: splash
 title: "Markdown"
 author_profile: true
 redirect_from: 

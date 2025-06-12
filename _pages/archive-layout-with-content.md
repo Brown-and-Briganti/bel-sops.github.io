@@ -1,8 +1,11 @@
 ---
+layout: splash
 title: "Archive Layout with Content"
-layout: archive
 permalink: /archive-layout-with-content/
+header:
+  image: image-alignment-1200x4002.jpg
 ---
+
 
 A variety of common markup showing how the theme styles them.
 

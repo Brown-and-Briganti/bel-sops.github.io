@@ -1,7 +1,9 @@
 ---
-layout: splash
+layout: single
 title: "AlphaFold3"
-permalink: /alphafold3/
+permalink: /homology-modeling/alphafold3/
+sidebar:
+        nav: homology-modeling-nav
 ---
 
 # AlphaFold3

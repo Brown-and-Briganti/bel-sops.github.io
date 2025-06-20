@@ -11,5 +11,14 @@ main:
   - title: "Guide"
     url: /markdown/
 
-  - title: "AlphaFold3"
-    url: /alphafold3/
+  - title: "Homology Modeling"
+    url: /homology-modeling/
+
+
+homology-modeling-nav:
+  - title: "Homology Modeling"
+    children:
+      - title: "AlphaFold3"
+        url: /homology-modeling/alphafold3
+      - title: "Sequence Alignment"
+        url: /homology-modeling/sequence-alignment
